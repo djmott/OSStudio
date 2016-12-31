@@ -1,0 +1,3 @@
+[submodule "ooos"]
+	path = ooos
+	url = git@github.com:djmott/ooos.git
